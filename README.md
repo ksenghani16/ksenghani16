@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ksenghani16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ksenghani16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -20,7 +20,8 @@ I'm an Information Technology student at **St. Francis Institute of Technology**
 - 🔭 What drives me is **solving real problems**. I want what I build to actually matter to the people using it.
 - 🤖 I've architected a **self-optimizing ticket triage system** with adaptive bandit-based learning, a **real-time retail analytics platform** processing live CCTV feeds, and a **credit risk engine** built for a FinTech hackathon.
 - ⚡ I'm most excited by the intersection of **software and intelligence** — systems that don't just function, but learn, adapt, and get better over time for the people who rely on them.
-- 🌱 Currently exploring RAG pipelines, knowledge graphs, and agentic workflows after a hands-on AI US based internship .
+- 🌱 Currently exploring RAG pipelines, knowledge graphs, and agentic workflows after a hands-on AI internship.
+- 🔨 Right now, I'm actively iterating on **Retailytix**, and keeping this profile itself as a living project.
 - 💼 **Actively seeking internship opportunities** where I can apply and grow these skills on real-world, high-impact problems — let's connect!
 
 ---
@@ -125,15 +126,17 @@ Full-stack app delivering real-time heat risk scoring and heatmap overlays acros
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ksenghani16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksenghani16&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ksenghani16&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
-> Replace `YOUR_USERNAME` above with your actual GitHub username to activate these stat cards.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksenghani16&theme=tokyo-night&hide_border=true" width="90%" />
+</p>
 
 ---
 
@@ -142,6 +145,7 @@ Full-stack app delivering real-time heat risk scoring and heatmap overlays acros
 I'm always up for collaborating on interesting **GitHub projects** — especially anything at the intersection of ML and full-stack engineering: RAG pipelines, adaptive/self-learning systems, computer vision, or developer tooling. If you're building something and want an extra pair of hands (or brain), open an issue, send a PR, or just reach out.
 
 I'm also **actively looking for internship opportunities** where I can bring these skills to real, high-impact problems.
+
 
 - 💡 Got a project idea or an open-source repo that needs contributors? Tag me or drop a message
 - 📬 Prefer email or LinkedIn? Reach out directly below
