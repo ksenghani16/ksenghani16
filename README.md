@@ -20,8 +20,7 @@ I'm an Information Technology student at **St. Francis Institute of Technology**
 - 🔭 What drives me is **solving real problems**. I want what I build to actually matter to the people using it.
 - 🤖 I've architected a **self-optimizing ticket triage system** with adaptive bandit-based learning, a **real-time retail analytics platform** processing live CCTV feeds, and a **credit risk engine** built for a FinTech hackathon.
 - ⚡ I'm most excited by the intersection of **software and intelligence** — systems that don't just function, but learn, adapt, and get better over time for the people who rely on them.
-- 🌱 Currently exploring RAG pipelines, knowledge graphs, and agentic workflows after a hands-on AI internship.
-- 🔨 Right now, I'm actively iterating on **Retailytix**, and keeping this profile itself as a living project.
+- 🌱 Currently exploring RAG pipelines,agentic workflows after a hands-on AI internship.
 - 💼 **Actively seeking internship opportunities** where I can apply and grow these skills on real-world, high-impact problems — let's connect!
 
 ---
