@@ -118,7 +118,7 @@ Full-stack app delivering real-time heat risk scoring and heatmap overlays acros
 - 🏅 **Consolation Prize**, Colloquium 2026 — *Retailytix*
 - 🏅 **Special Runner-Up**, B.L.I.T.Z 2026 (IEEE x WIE Hackathon) — *HeatAssist*
 - 🏅 **Round 2 Qualifier**, ITSA ITS-A-HACK 2.0 (FinTech Track) — *Crediwise*
-- 🌍 **AI Intern @ Ezdatamunch (US-based)** — built a local RAG pipeline from scratch and improved retrieval ranking quality by **22%** across 14 benchmarked configurations
+- 🌍 **AI Intern @ Ezdatamunch** — built a local RAG pipeline from scratch and improved retrieval ranking quality by **22%** across 14 benchmarked configurations
 
 ---
 
