@@ -2,7 +2,7 @@
 <h3 align="center">I build systems that learn, adapt, and actually make a difference</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=IT+Student+%40+SFIT+%7C+CGPI+9.18;Machine+Learning+%2B+Full-Stack+Engineer;Turning+Data+into+Decisions;Currently+Seeking+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=IT+Student+%40+SFIT+%7C+CGPI+9.18;Machine+Learning+%2B+Full-Stack+Engineer;Turning+Data+into+Decisions;" alt="Typing SVG" />
 </p>
 
 <p align="center">
