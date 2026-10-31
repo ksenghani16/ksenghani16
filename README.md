@@ -122,27 +122,17 @@ Full-stack app delivering real-time heat risk scoring and heatmap overlays acros
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Yearly%20Contributions-104-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Repos%20contributed%20to-4+-6C63FF?style=for-the-badge" />
-</p>
 
 | | |
 |---|---|
 | 🗓️ **Active since** | 2024 |
 | 📈 **Focus areas** | ML pipelines, computer vision, RAG systems, full-stack apps |
 
-
-
 ---
 
 ### 🤝 Let's Collaborate
 
 I'm always up for collaborating on interesting **GitHub projects** — especially anything at the intersection of ML and full-stack engineering: RAG pipelines, adaptive/self-learning systems, computer vision, or developer tooling. If you're building something and want an extra pair of hands (or brain), open an issue, send a PR, or just reach out.
-
-I'm also **actively looking for internship opportunities** where I can bring these skills to real, high-impact problems.
 
 - 💡 Got a project idea or an open-source repo that needs contributors? Tag me or drop a message
 - 📬 Prefer email or LinkedIn? Reach out directly below
